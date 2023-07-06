@@ -1,12 +1,4 @@
 ---
 title: Menu principal
-items:
-- title: Équipe
-  target: "/equipe/"
-  kind: page
-  children:
-  - title: Équipe éditoriale
-    target: "/equipe/equipe-editoriale/"
-    kind: page
-    children: []
+items: []
 
