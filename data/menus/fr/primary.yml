@@ -9,4 +9,8 @@ items:
     target: "/equipe/equipe-editoriale/"
     kind: page
     children: []
+- title: Organisations
+  target: "/organisations/"
+  kind: page
+  children: []
 
