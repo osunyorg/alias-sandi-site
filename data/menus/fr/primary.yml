@@ -13,6 +13,10 @@ items:
     target: https://extranet.osuny.org/
     kind: url
     children: []
+  - title: Accessibilité
+    target: "/accessibilite/"
+    kind: page
+    children: []
 - title: Organisations
   target: "/organisations/"
   kind: page
