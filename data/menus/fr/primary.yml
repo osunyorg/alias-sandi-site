@@ -17,10 +17,6 @@ items:
     target: "/accessibilite/"
     kind: page
     children: []
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  children: []
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
