@@ -5,10 +5,6 @@ items:
   target: "/equipe/"
   kind: page
   children:
-  - title: Équipe éditoriale
-    target: "/equipe/equipe-editoriale/"
-    kind: page
-    children: []
   - title: Extranet
     target: https://extranet.osuny.org/
     kind: url
