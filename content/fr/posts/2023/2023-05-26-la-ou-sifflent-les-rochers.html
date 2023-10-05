@@ -1,6 +1,12 @@
 ---
 title: "Là où sifflent les rochers"
 date: "2023-05-26T00:00:00+02:00"
+breadcrumbs:
+  - title: "Accueil"
+    path: "/"
+  - title: "Actualités"
+    path: "/actualites/"
+  - title: "Là où sifflent les rochers"
 url: "/actualites/2023-05-26-la-ou-sifflent-les-rochers/"
 slug: "la-ou-sifflent-les-rochers"
 
@@ -64,13 +70,15 @@ contents:
       Là où sifflent les rochers c'est un très long titre qui va prendre beaucoup de place sur la colonne de droite
     position: 2
     data:
-      page: /actualites/
+      page: 
+        path: "/actualites/"
+        slug: "actualites"
+        file: "content/fr/posts/_index.html"
       show_main_description: false
       show_descriptions: false
       show_images: false
       layout: grid
       pages:
-      elements:
 
 
   - kind: block
@@ -79,24 +87,19 @@ contents:
       Là où sifflent les rochers c'est un très long titre qui va prendre beaucoup de place sur la colonne de droite
     position: 3
     data:
-      page: /actualites/
+      page: 
+        path: "/actualites/"
+        slug: "actualites"
+        file: "content/fr/posts/_index.html"
       show_main_description: true
       show_descriptions: false
       show_images: false
       layout: grid
       pages:
-        - page: "/"
-          slug: "/"
-      elements:
-        - title: >-
-            Accueil
-          summary: >-
-            
+        - path: "/"
           slug: ""
-          path: "/"
-          url: "/"
-          bodyclass: >-
-            
+          file: "content/fr/_index.html"
+          external: false
 
 
 
