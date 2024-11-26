@@ -5,4 +5,5 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+  file: content/fr/organizations/_index.html
 
