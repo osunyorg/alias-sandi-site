@@ -2,6 +2,11 @@
 
 baseURL: https://alias-sandi-osuny.netlify.app/
 
+## OSUNY
+osuny:
+  website:
+    id: 5dc7c69a-0305-46f4-93c9-ed98b6818676
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
